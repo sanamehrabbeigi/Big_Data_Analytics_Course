@@ -7,5 +7,9 @@ A binary classification model to predict income levels based on the UCI Adult da
 Final Project:
 Initial Goal:  credit scoring model to predict and calculate customer credit score + credit level
 
-Data cleaning and reduce dimentions: *Input: a dataset with 460000 rows and 56 columns* *Output: a dataset with 371075 rows and 15 columns*
+Data cleaning and reducing dimensions: *Input:* a dataset with 460000 rows and 56 columns --> *Output:* a dataset with 371075 rows and 15 columns
+
+<img width="846" height="462" alt="image" src="https://github.com/user-attachments/assets/979767a3-b8b4-4a72-8b42-d27880981ef9" />
+
+
 
