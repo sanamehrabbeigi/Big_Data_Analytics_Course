@@ -8,9 +8,10 @@ Final Project:
 Initial Goal:  credit scoring model to predict and calculate customer credit score + credit level
 
 Data cleaning and reducing dimensions: *Input:* a dataset with 460000 rows and 56 columns --> *Output:* a dataset with 371075 rows and 15 columns
-Final decision: predicting the credit score (we could use linear regression as a base model, although it didn't sound perfect)
+Final decision: predicting the credit score(regression, not classification) (we could use linear regression as a base model, although it didn't sound perfect)
 <img width="896" height="510" alt="image" src="https://github.com/user-attachments/assets/1d5073a7-9829-44e2-b6b6-3faec626cd45" />
 <img width="846" height="462" alt="image" src="https://github.com/user-attachments/assets/979767a3-b8b4-4a72-8b42-d27880981ef9" />
 <img width="859" height="490" alt="image" src="https://github.com/user-attachments/assets/7b2ba924-7168-4236-9174-ac71fcf57178" />
 <img width="874" height="469" alt="image" src="https://github.com/user-attachments/assets/79cfe679-dfca-43ee-9a45-de05580a5ded" />
+<img width="882" height="494" alt="image" src="https://github.com/user-attachments/assets/9b49d6db-393f-46fb-ada2-24d1e9a111b7" />
 
